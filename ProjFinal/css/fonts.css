@@ -1,0 +1,62 @@
+ /* BEM_VINDO A NAO MELHOR MANEIRA DE LOGAR FONTES PODIA FAZER O EXPORTAR DE UM FICHEIRO ZIP PARA SER MAIS FRIENDLY COM OS DISPOSITIVOS*/
+
+ /*PIXELIFY SANS ////////////////////*/
+        @font-face {
+            font-family: "Pixelify Sans";
+            src: url('../data/Fonts/PixelifySnas/PixelifySans-Regular.ttf');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: "Pixelify Sans";
+            src: url('../data/Fonts/PixelifySnas/PixelifySans-Medium.ttf');
+            font-weight: medium;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: "Pixelify Sans";
+            src: url('../data/Fonts/PixelifySnas/PixelifySans-SemiBold.ttf');
+            font-weight: 700;
+            font-style: semi-bold;
+        }
+
+        @font-face {
+            font-family: "Pixelify Sans";
+            src: url('../data/Fonts/PixelifySnas/PixelifySans-Bold.ttf');
+            font-weight: bold;
+            font-style: bold;
+  }
+
+  /*ROBOTO  /////////////////////////*/
+        @font-face {
+            font-family: "Roboto";
+            src: url('../data/Fonts/Roboto/Roboto-Regular.ttf');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: "Roboto";
+            src: url('../data/Fonts/Roboto/Roboto-Medium.ttf');
+            font-weight: medium;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: "Roboto";
+            src: url('../data/Fonts/Roboto/Roboto-Bold.ttf');
+            font-weight: 700;
+            font-style: semi-bold;
+        }
+
+        @font-face {
+            font-family: "Roboto";
+            src: url('../data/Fonts/Roboto/Roboto-Black.ttf');
+            font-weight: bold;
+            font-style: bold;
+        }
+
+
+

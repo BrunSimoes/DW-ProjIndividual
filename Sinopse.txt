@@ -1,0 +1,3 @@
+Projeto Individual | Bruno Simões : 2020218577
+
+Para o projeto individual decidi seguir uma abordagem ligada aos videojogos que é uma area onde perco algum tempo quando tenho tempo livre. Posto isso criei a especie de um minijogo onde o utlizador tem que obter um certo nivel de pontuação para desbloquear alguns factos sobre mim. Para tal usei a biblioteca de matter.js para facilitar a implemetação de gravidade em objetos. Relativamente ao jogo criei grelhas de pins e porpolsores ajustaveis sempre que a janela é aumentada.  Uma area de achive onde o user tem acesso a informação sobre mim.
